@@ -1,0 +1,353 @@
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\Kasir.exe
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\Kasir.deps.json
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\Kasir.runtimeconfig.json
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\Kasir.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\Kasir.pdb
+C:\Users\tubag\source\repos\Kasir\Kasir\obj\Debug\net8.0-windows\Kasir.Login.resources
+C:\Users\tubag\source\repos\Kasir\Kasir\obj\Debug\net8.0-windows\Kasir.csproj.GenerateResource.cache
+C:\Users\tubag\source\repos\Kasir\Kasir\obj\Debug\net8.0-windows\Kasir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tubag\source\repos\Kasir\Kasir\obj\Debug\net8.0-windows\Kasir.AssemblyInfoInputs.cache
+C:\Users\tubag\source\repos\Kasir\Kasir\obj\Debug\net8.0-windows\Kasir.AssemblyInfo.cs
+C:\Users\tubag\source\repos\Kasir\Kasir\obj\Debug\net8.0-windows\Kasir.csproj.CoreCompileInputs.cache
+C:\Users\tubag\source\repos\Kasir\Kasir\obj\Debug\net8.0-windows\Kasir.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\obj\Debug\net8.0-windows\refint\Kasir.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\obj\Debug\net8.0-windows\Kasir.pdb
+C:\Users\tubag\source\repos\Kasir\Kasir\obj\Debug\net8.0-windows\Kasir.genruntimeconfig.cache
+C:\Users\tubag\source\repos\Kasir\Kasir\obj\Debug\net8.0-windows\ref\Kasir.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\obj\Debug\net8.0-windows\Kasir.Properties.Resources.resources
+C:\Users\tubag\source\repos\Kasir\Kasir\obj\Debug\net8.0-windows\Kasir.Register.resources
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\tubag\source\repos\Kasir\Kasir\obj\Debug\net8.0-windows\Kasir.csproj.AssemblyReference.cache
+C:\Users\tubag\source\repos\Kasir\Kasir\obj\Debug\net8.0-windows\Kasir.csproj.Up2Date
+C:\Users\tubag\source\repos\Kasir\Kasir\obj\Debug\net8.0-windows\Kasir.AdminMainForm.resources
+C:\Users\tubag\source\repos\Kasir\Kasir\obj\Debug\net8.0-windows\Kasir.AdminDashboardForm.resources
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\Kasir.exe
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\Kasir.deps.json
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\Kasir.runtimeconfig.json
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\Kasir.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\Kasir.pdb
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\Azure.Core.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\Azure.Identity.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\Google.Protobuf.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\MySql.Data.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\System.ClientModel.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\System.Memory.Data.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\System.Text.Json.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\ZstdSharp.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\obj\Debug\net8.0-windows\Kasir.csproj.AssemblyReference.cache
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\obj\Debug\net8.0-windows\Kasir.AdminAddProducts.resources
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\obj\Debug\net8.0-windows\Kasir.AdminAddUsers.resources
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\obj\Debug\net8.0-windows\Kasir.AdminDashboardForm.resources
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\obj\Debug\net8.0-windows\Kasir.AdminMainForm.resources
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\obj\Debug\net8.0-windows\Kasir.CashierMainForm.resources
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\obj\Debug\net8.0-windows\Kasir.CashierOrderForm.resources
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\obj\Debug\net8.0-windows\Kasir.Login.resources
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\obj\Debug\net8.0-windows\Kasir.Properties.Resources.resources
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\obj\Debug\net8.0-windows\Kasir.Register.resources
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\obj\Debug\net8.0-windows\Kasir.csproj.GenerateResource.cache
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\obj\Debug\net8.0-windows\Kasir.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\obj\Debug\net8.0-windows\Kasir.AssemblyInfoInputs.cache
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\obj\Debug\net8.0-windows\Kasir.AssemblyInfo.cs
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\obj\Debug\net8.0-windows\Kasir.csproj.CoreCompileInputs.cache
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\obj\Debug\net8.0-windows\Kasir.csproj.Up2Date
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\obj\Debug\net8.0-windows\Kasir.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\obj\Debug\net8.0-windows\refint\Kasir.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\obj\Debug\net8.0-windows\Kasir.pdb
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\obj\Debug\net8.0-windows\Kasir.genruntimeconfig.cache
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\obj\Debug\net8.0-windows\ref\Kasir.dll
+E:\Tugas Kuliah\Lepkom\project calas\Kasir\Kasir\obj\Debug\net8.0-windows\Kasir.CashierCustomerForm.resources
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\Kasir.exe
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\Kasir.deps.json
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\Kasir.runtimeconfig.json
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\Kasir.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\Kasir.pdb
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\Azure.Core.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\Azure.Identity.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\Google.Protobuf.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\MySql.Data.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\System.ClientModel.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\System.Memory.Data.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\System.Text.Json.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\ZstdSharp.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\obj\Debug\net8.0-windows\Kasir.csproj.AssemblyReference.cache
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\obj\Debug\net8.0-windows\Kasir.AdminAddProducts.resources
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\obj\Debug\net8.0-windows\Kasir.AdminAddUsers.resources
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\obj\Debug\net8.0-windows\Kasir.AdminDashboardForm.resources
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\obj\Debug\net8.0-windows\Kasir.AdminMainForm.resources
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\obj\Debug\net8.0-windows\Kasir.CashierCustomerForm.resources
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\obj\Debug\net8.0-windows\Kasir.CashierMainForm.resources
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\obj\Debug\net8.0-windows\Kasir.CashierOrderForm.resources
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\obj\Debug\net8.0-windows\Kasir.Login.resources
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\obj\Debug\net8.0-windows\Kasir.Properties.Resources.resources
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\obj\Debug\net8.0-windows\Kasir.Register.resources
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\obj\Debug\net8.0-windows\Kasir.csproj.GenerateResource.cache
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\obj\Debug\net8.0-windows\Kasir.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\obj\Debug\net8.0-windows\Kasir.AssemblyInfoInputs.cache
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\obj\Debug\net8.0-windows\Kasir.AssemblyInfo.cs
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\obj\Debug\net8.0-windows\Kasir.csproj.CoreCompileInputs.cache
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\obj\Debug\net8.0-windows\Kasir.csproj.Up2Date
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\obj\Debug\net8.0-windows\Kasir.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\obj\Debug\net8.0-windows\refint\Kasir.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\obj\Debug\net8.0-windows\Kasir.pdb
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\obj\Debug\net8.0-windows\Kasir.genruntimeconfig.cache
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\obj\Debug\net8.0-windows\ref\Kasir.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir2\Kasir\obj\Debug\net8.0-windows\Kasir.sourcelink.json
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\Kasir.exe
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\Kasir.deps.json
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\Kasir.runtimeconfig.json
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\Kasir.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\Kasir.pdb
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\Azure.Core.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\Azure.Identity.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\Google.Protobuf.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\MySql.Data.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\System.ClientModel.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\System.Memory.Data.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\System.Text.Json.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\ZstdSharp.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\obj\Debug\net8.0-windows\Kasir.csproj.AssemblyReference.cache
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\obj\Debug\net8.0-windows\Kasir.AdminAddProducts.resources
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\obj\Debug\net8.0-windows\Kasir.AdminAddUsers.resources
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\obj\Debug\net8.0-windows\Kasir.AdminDashboardForm.resources
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\obj\Debug\net8.0-windows\Kasir.AdminMainForm.resources
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\obj\Debug\net8.0-windows\Kasir.CashierCustomerForm.resources
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\obj\Debug\net8.0-windows\Kasir.CashierMainForm.resources
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\obj\Debug\net8.0-windows\Kasir.CashierOrderForm.resources
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\obj\Debug\net8.0-windows\Kasir.Login.resources
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\obj\Debug\net8.0-windows\Kasir.Properties.Resources.resources
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\obj\Debug\net8.0-windows\Kasir.Register.resources
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\obj\Debug\net8.0-windows\Kasir.csproj.GenerateResource.cache
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\obj\Debug\net8.0-windows\Kasir.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\obj\Debug\net8.0-windows\Kasir.AssemblyInfoInputs.cache
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\obj\Debug\net8.0-windows\Kasir.AssemblyInfo.cs
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\obj\Debug\net8.0-windows\Kasir.csproj.CoreCompileInputs.cache
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\obj\Debug\net8.0-windows\Kasir.sourcelink.json
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\obj\Debug\net8.0-windows\Kasir.csproj.Up2Date
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\obj\Debug\net8.0-windows\Kasir.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\obj\Debug\net8.0-windows\refint\Kasir.dll
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\obj\Debug\net8.0-windows\Kasir.pdb
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\obj\Debug\net8.0-windows\Kasir.genruntimeconfig.cache
+E:\Tugas Kuliah\Lepkom\project calas\kasir4\Kasir\obj\Debug\net8.0-windows\ref\Kasir.dll

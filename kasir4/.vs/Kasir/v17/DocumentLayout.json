@@ -1,0 +1,359 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Tugas Kuliah\\Lepkom\\project calas\\kasir4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2541EF84-76B4-4669-AE12-AA72F09F56AD}|Kasir\\Kasir.csproj|e:\\tugas kuliah\\lepkom\\project calas\\kasir4\\kasir\\cashierorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2541EF84-76B4-4669-AE12-AA72F09F56AD}|Kasir\\Kasir.csproj|solutionrelative:kasir\\cashierorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2541EF84-76B4-4669-AE12-AA72F09F56AD}|Kasir\\Kasir.csproj|e:\\tugas kuliah\\lepkom\\project calas\\kasir4\\kasir\\adminmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2541EF84-76B4-4669-AE12-AA72F09F56AD}|Kasir\\Kasir.csproj|solutionrelative:kasir\\adminmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2541EF84-76B4-4669-AE12-AA72F09F56AD}|Kasir\\Kasir.csproj|E:\\Tugas Kuliah\\Lepkom\\project calas\\kasir4\\kasir\\cashierorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2541EF84-76B4-4669-AE12-AA72F09F56AD}|Kasir\\Kasir.csproj|solutionrelative:kasir\\cashierorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2541EF84-76B4-4669-AE12-AA72F09F56AD}|Kasir\\Kasir.csproj|e:\\tugas kuliah\\lepkom\\project calas\\kasir4\\kasir\\cashierorderformproductsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2541EF84-76B4-4669-AE12-AA72F09F56AD}|Kasir\\Kasir.csproj|solutionrelative:kasir\\cashierorderformproductsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2541EF84-76B4-4669-AE12-AA72F09F56AD}|Kasir\\Kasir.csproj|e:\\tugas kuliah\\lepkom\\project calas\\kasir4\\kasir\\admindashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2541EF84-76B4-4669-AE12-AA72F09F56AD}|Kasir\\Kasir.csproj|solutionrelative:kasir\\admindashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2541EF84-76B4-4669-AE12-AA72F09F56AD}|Kasir\\Kasir.csproj|e:\\tugas kuliah\\lepkom\\project calas\\kasir4\\kasir\\cashiermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2541EF84-76B4-4669-AE12-AA72F09F56AD}|Kasir\\Kasir.csproj|solutionrelative:kasir\\cashiermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2541EF84-76B4-4669-AE12-AA72F09F56AD}|Kasir\\Kasir.csproj|E:\\Tugas Kuliah\\Lepkom\\project calas\\kasir4\\kasir\\cashiermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2541EF84-76B4-4669-AE12-AA72F09F56AD}|Kasir\\Kasir.csproj|solutionrelative:kasir\\cashiermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Tugas Kuliah\\Lepkom\\project calas\\kasir3\\SQLQuery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2541EF84-76B4-4669-AE12-AA72F09F56AD}|Kasir\\Kasir.csproj|e:\\tugas kuliah\\lepkom\\project calas\\kasir4\\kasir\\cashierordersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2541EF84-76B4-4669-AE12-AA72F09F56AD}|Kasir\\Kasir.csproj|solutionrelative:kasir\\cashierordersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2541EF84-76B4-4669-AE12-AA72F09F56AD}|Kasir\\Kasir.csproj|e:\\tugas kuliah\\lepkom\\project calas\\kasir4\\kasir\\cashiermainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2541EF84-76B4-4669-AE12-AA72F09F56AD}|Kasir\\Kasir.csproj|solutionrelative:kasir\\cashiermainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2541EF84-76B4-4669-AE12-AA72F09F56AD}|Kasir\\Kasir.csproj|e:\\tugas kuliah\\lepkom\\project calas\\kasir4\\kasir\\cashiercustomerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2541EF84-76B4-4669-AE12-AA72F09F56AD}|Kasir\\Kasir.csproj|solutionrelative:kasir\\cashiercustomerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2541EF84-76B4-4669-AE12-AA72F09F56AD}|Kasir\\Kasir.csproj|e:\\tugas kuliah\\lepkom\\project calas\\kasir4\\kasir\\adminaddproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2541EF84-76B4-4669-AE12-AA72F09F56AD}|Kasir\\Kasir.csproj|solutionrelative:kasir\\adminaddproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2541EF84-76B4-4669-AE12-AA72F09F56AD}|Kasir\\Kasir.csproj|e:\\tugas kuliah\\lepkom\\project calas\\kasir4\\kasir\\adminaddproductsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2541EF84-76B4-4669-AE12-AA72F09F56AD}|Kasir\\Kasir.csproj|solutionrelative:kasir\\adminaddproductsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2541EF84-76B4-4669-AE12-AA72F09F56AD}|Kasir\\Kasir.csproj|E:\\Tugas Kuliah\\Lepkom\\project calas\\kasir4\\kasir\\adminmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2541EF84-76B4-4669-AE12-AA72F09F56AD}|Kasir\\Kasir.csproj|solutionrelative:kasir\\adminmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2541EF84-76B4-4669-AE12-AA72F09F56AD}|Kasir\\Kasir.csproj|E:\\Tugas Kuliah\\Lepkom\\project calas\\kasir4\\kasir\\admindashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2541EF84-76B4-4669-AE12-AA72F09F56AD}|Kasir\\Kasir.csproj|solutionrelative:kasir\\admindashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2541EF84-76B4-4669-AE12-AA72F09F56AD}|Kasir\\Kasir.csproj|e:\\tugas kuliah\\lepkom\\project calas\\kasir4\\kasir\\adminaddusersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2541EF84-76B4-4669-AE12-AA72F09F56AD}|Kasir\\Kasir.csproj|solutionrelative:kasir\\adminaddusersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2541EF84-76B4-4669-AE12-AA72F09F56AD}|Kasir\\Kasir.csproj|e:\\tugas kuliah\\lepkom\\project calas\\kasir4\\kasir\\adminaddusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2541EF84-76B4-4669-AE12-AA72F09F56AD}|Kasir\\Kasir.csproj|solutionrelative:kasir\\adminaddusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2541EF84-76B4-4669-AE12-AA72F09F56AD}|Kasir\\Kasir.csproj|E:\\Tugas Kuliah\\Lepkom\\project calas\\kasir4\\kasir\\adminaddusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2541EF84-76B4-4669-AE12-AA72F09F56AD}|Kasir\\Kasir.csproj|solutionrelative:kasir\\adminaddusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2541EF84-76B4-4669-AE12-AA72F09F56AD}|Kasir\\Kasir.csproj|e:\\tugas kuliah\\lepkom\\project calas\\kasir4\\kasir\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2541EF84-76B4-4669-AE12-AA72F09F56AD}|Kasir\\Kasir.csproj|solutionrelative:kasir\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2541EF84-76B4-4669-AE12-AA72F09F56AD}|Kasir\\Kasir.csproj|e:\\tugas kuliah\\lepkom\\project calas\\kasir4\\kasir\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2541EF84-76B4-4669-AE12-AA72F09F56AD}|Kasir\\Kasir.csproj|solutionrelative:kasir\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2541EF84-76B4-4669-AE12-AA72F09F56AD}|Kasir\\Kasir.csproj|e:\\tugas kuliah\\lepkom\\project calas\\kasir4\\kasir\\customersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2541EF84-76B4-4669-AE12-AA72F09F56AD}|Kasir\\Kasir.csproj|solutionrelative:kasir\\customersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SQLQuery2.sql",
+              "DocumentMoniker": "E:\\Tugas Kuliah\\Lepkom\\project calas\\kasir3\\SQLQuery2.sql",
+              "RelativeDocumentMoniker": "..\\kasir3\\SQLQuery2.sql",
+              "ToolTip": "E:\\Tugas Kuliah\\Lepkom\\project calas\\kasir3\\SQLQuery2.sql",
+              "RelativeToolTip": "..\\kasir3\\SQLQuery2.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-07-30T03:27:49.534Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CashierOrderForm.cs [Design]",
+              "DocumentMoniker": "E:\\Tugas Kuliah\\Lepkom\\project calas\\kasir4\\Kasir\\CashierOrderForm.cs",
+              "RelativeDocumentMoniker": "Kasir\\CashierOrderForm.cs",
+              "ToolTip": "E:\\Tugas Kuliah\\Lepkom\\project calas\\kasir4\\Kasir\\CashierOrderForm.cs [Design]",
+              "RelativeToolTip": "Kasir\\CashierOrderForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T05:10:31.073Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminMainForm.cs",
+              "DocumentMoniker": "E:\\Tugas Kuliah\\Lepkom\\project calas\\kasir4\\Kasir\\AdminMainForm.cs",
+              "RelativeDocumentMoniker": "Kasir\\AdminMainForm.cs",
+              "ToolTip": "E:\\Tugas Kuliah\\Lepkom\\project calas\\kasir4\\Kasir\\AdminMainForm.cs",
+              "RelativeToolTip": "Kasir\\AdminMainForm.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T03:57:49.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CashierOrderForm.cs",
+              "DocumentMoniker": "E:\\Tugas Kuliah\\Lepkom\\project calas\\kasir4\\Kasir\\CashierOrderForm.cs",
+              "RelativeDocumentMoniker": "Kasir\\CashierOrderForm.cs",
+              "ToolTip": "E:\\Tugas Kuliah\\Lepkom\\project calas\\kasir4\\Kasir\\CashierOrderForm.cs",
+              "RelativeToolTip": "Kasir\\CashierOrderForm.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAKsCAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T03:58:11.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminAddUsers.cs",
+              "DocumentMoniker": "E:\\Tugas Kuliah\\Lepkom\\project calas\\kasir4\\Kasir\\AdminAddUsers.cs",
+              "RelativeDocumentMoniker": "Kasir\\AdminAddUsers.cs",
+              "ToolTip": "E:\\Tugas Kuliah\\Lepkom\\project calas\\kasir4\\Kasir\\AdminAddUsers.cs",
+              "RelativeToolTip": "Kasir\\AdminAddUsers.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAAAAMkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T03:57:10.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CashierMainForm.cs [Design]",
+              "DocumentMoniker": "E:\\Tugas Kuliah\\Lepkom\\project calas\\kasir4\\Kasir\\CashierMainForm.cs",
+              "RelativeDocumentMoniker": "Kasir\\CashierMainForm.cs",
+              "ToolTip": "E:\\Tugas Kuliah\\Lepkom\\project calas\\kasir4\\Kasir\\CashierMainForm.cs [Design]",
+              "RelativeToolTip": "Kasir\\CashierMainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T04:40:49.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CashierCustomerForm.cs",
+              "DocumentMoniker": "E:\\Tugas Kuliah\\Lepkom\\project calas\\kasir4\\Kasir\\CashierCustomerForm.cs",
+              "RelativeDocumentMoniker": "Kasir\\CashierCustomerForm.cs",
+              "ToolTip": "E:\\Tugas Kuliah\\Lepkom\\project calas\\kasir4\\Kasir\\CashierCustomerForm.cs",
+              "RelativeToolTip": "Kasir\\CashierCustomerForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T03:57:55.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminDashboardForm.cs",
+              "DocumentMoniker": "E:\\Tugas Kuliah\\Lepkom\\project calas\\kasir4\\Kasir\\AdminDashboardForm.cs",
+              "RelativeDocumentMoniker": "Kasir\\AdminDashboardForm.cs",
+              "ToolTip": "E:\\Tugas Kuliah\\Lepkom\\project calas\\kasir4\\Kasir\\AdminDashboardForm.cs",
+              "RelativeToolTip": "Kasir\\AdminDashboardForm.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAiwKIAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T03:57:41.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CashierOrderFormProductsData.cs",
+              "DocumentMoniker": "E:\\Tugas Kuliah\\Lepkom\\project calas\\kasir4\\Kasir\\CashierOrderFormProductsData.cs",
+              "RelativeDocumentMoniker": "Kasir\\CashierOrderFormProductsData.cs",
+              "ToolTip": "E:\\Tugas Kuliah\\Lepkom\\project calas\\kasir4\\Kasir\\CashierOrderFormProductsData.cs",
+              "RelativeToolTip": "Kasir\\CashierOrderFormProductsData.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAF4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T04:00:43.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CashierMainForm.cs",
+              "DocumentMoniker": "E:\\Tugas Kuliah\\Lepkom\\project calas\\kasir4\\Kasir\\CashierMainForm.cs",
+              "RelativeDocumentMoniker": "Kasir\\CashierMainForm.cs",
+              "ToolTip": "E:\\Tugas Kuliah\\Lepkom\\project calas\\kasir4\\Kasir\\CashierMainForm.cs",
+              "RelativeToolTip": "Kasir\\CashierMainForm.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwCoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T03:58:03.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CashierOrdersData.cs",
+              "DocumentMoniker": "E:\\Tugas Kuliah\\Lepkom\\project calas\\kasir4\\Kasir\\CashierOrdersData.cs",
+              "RelativeDocumentMoniker": "Kasir\\CashierOrdersData.cs",
+              "ToolTip": "E:\\Tugas Kuliah\\Lepkom\\project calas\\kasir4\\Kasir\\CashierOrdersData.cs",
+              "RelativeToolTip": "Kasir\\CashierOrdersData.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAwA0AAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T04:01:40.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdminDashboardForm.cs [Design]",
+              "DocumentMoniker": "E:\\Tugas Kuliah\\Lepkom\\project calas\\kasir4\\Kasir\\AdminDashboardForm.cs",
+              "RelativeDocumentMoniker": "Kasir\\AdminDashboardForm.cs",
+              "ToolTip": "E:\\Tugas Kuliah\\Lepkom\\project calas\\kasir4\\Kasir\\AdminDashboardForm.cs [Design]",
+              "RelativeToolTip": "Kasir\\AdminDashboardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T04:14:37.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Login.cs",
+              "DocumentMoniker": "E:\\Tugas Kuliah\\Lepkom\\project calas\\kasir4\\Kasir\\Login.cs",
+              "RelativeDocumentMoniker": "Kasir\\Login.cs",
+              "ToolTip": "E:\\Tugas Kuliah\\Lepkom\\project calas\\kasir4\\Kasir\\Login.cs",
+              "RelativeToolTip": "Kasir\\Login.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAqwBUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T03:46:41.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CashierMainForm.Designer.cs",
+              "DocumentMoniker": "E:\\Tugas Kuliah\\Lepkom\\project calas\\kasir4\\Kasir\\CashierMainForm.Designer.cs",
+              "RelativeDocumentMoniker": "Kasir\\CashierMainForm.Designer.cs",
+              "ToolTip": "E:\\Tugas Kuliah\\Lepkom\\project calas\\kasir4\\Kasir\\CashierMainForm.Designer.cs",
+              "RelativeToolTip": "Kasir\\CashierMainForm.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwC8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T04:32:55.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminAddProducts.cs",
+              "DocumentMoniker": "E:\\Tugas Kuliah\\Lepkom\\project calas\\kasir4\\Kasir\\AdminAddProducts.cs",
+              "RelativeDocumentMoniker": "Kasir\\AdminAddProducts.cs",
+              "ToolTip": "E:\\Tugas Kuliah\\Lepkom\\project calas\\kasir4\\Kasir\\AdminAddProducts.cs",
+              "RelativeToolTip": "Kasir\\AdminAddProducts.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAAAKwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T03:56:36.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminAddProductsData.cs",
+              "DocumentMoniker": "E:\\Tugas Kuliah\\Lepkom\\project calas\\kasir4\\Kasir\\AdminAddProductsData.cs",
+              "RelativeDocumentMoniker": "Kasir\\AdminAddProductsData.cs",
+              "ToolTip": "E:\\Tugas Kuliah\\Lepkom\\project calas\\kasir4\\Kasir\\AdminAddProductsData.cs",
+              "RelativeToolTip": "Kasir\\AdminAddProductsData.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA0wDQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T03:56:49.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminAddUsersData.cs",
+              "DocumentMoniker": "E:\\Tugas Kuliah\\Lepkom\\project calas\\kasir4\\Kasir\\AdminAddUsersData.cs",
+              "RelativeDocumentMoniker": "Kasir\\AdminAddUsersData.cs",
+              "ToolTip": "E:\\Tugas Kuliah\\Lepkom\\project calas\\kasir4\\Kasir\\AdminAddUsersData.cs",
+              "RelativeToolTip": "Kasir\\AdminAddUsersData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T03:57:17.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminMainForm.cs [Design]",
+              "DocumentMoniker": "E:\\Tugas Kuliah\\Lepkom\\project calas\\kasir4\\Kasir\\AdminMainForm.cs",
+              "RelativeDocumentMoniker": "Kasir\\AdminMainForm.cs",
+              "ToolTip": "E:\\Tugas Kuliah\\Lepkom\\project calas\\kasir4\\Kasir\\AdminMainForm.cs [Design]",
+              "RelativeToolTip": "Kasir\\AdminMainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T04:17:19.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdminAddUsers.cs [Design]",
+              "DocumentMoniker": "E:\\Tugas Kuliah\\Lepkom\\project calas\\kasir4\\Kasir\\AdminAddUsers.cs",
+              "RelativeDocumentMoniker": "Kasir\\AdminAddUsers.cs",
+              "ToolTip": "E:\\Tugas Kuliah\\Lepkom\\project calas\\kasir4\\Kasir\\AdminAddUsers.cs [Design]",
+              "RelativeToolTip": "Kasir\\AdminAddUsers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T04:04:02.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CustomersData.cs",
+              "DocumentMoniker": "E:\\Tugas Kuliah\\Lepkom\\project calas\\kasir4\\Kasir\\CustomersData.cs",
+              "RelativeDocumentMoniker": "Kasir\\CustomersData.cs",
+              "ToolTip": "E:\\Tugas Kuliah\\Lepkom\\project calas\\kasir4\\Kasir\\CustomersData.cs",
+              "RelativeToolTip": "Kasir\\CustomersData.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAA0AAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T04:01:48.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Register.cs",
+              "DocumentMoniker": "E:\\Tugas Kuliah\\Lepkom\\project calas\\kasir4\\Kasir\\Register.cs",
+              "RelativeDocumentMoniker": "Kasir\\Register.cs",
+              "ToolTip": "E:\\Tugas Kuliah\\Lepkom\\project calas\\kasir4\\Kasir\\Register.cs",
+              "RelativeToolTip": "Kasir\\Register.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAAsAAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T04:02:06.949Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
